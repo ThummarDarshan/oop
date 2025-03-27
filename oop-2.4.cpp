@@ -19,6 +19,8 @@ edge cases, such as attempting to sell more items than available in stock, becam
 implementation to ensure reliability.
 */
 
+
+
 #include <iostream>
 #include <cstring>
 
