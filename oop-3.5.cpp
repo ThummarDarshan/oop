@@ -24,6 +24,7 @@ int digit ( int num , int k)
         digit = num%10;
         sum +=  digit * k;
     }
+
     if(sum < 10 )
     {
         return sum ;
