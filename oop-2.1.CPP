@@ -14,6 +14,7 @@ managing multiple rectangle records, performing calculations for each, and displ
 clearly for analysis and planning purposes.
 */
 
+
 #include<iostream>
 using namespace std;
 
