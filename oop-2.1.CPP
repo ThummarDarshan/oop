@@ -1,4 +1,3 @@
-
 /*
 A local construction company frequently deals with rectangular plots and structures of varying
 dimensions. To streamline their planning and estimation processes, the company requires a simple
