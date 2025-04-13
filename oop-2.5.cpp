@@ -21,7 +21,6 @@ loan-related queries effectively.
 */
 
 
-
 #include <iostream>
 #include <cmath>
 #include <string>
