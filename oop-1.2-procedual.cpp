@@ -1,5 +1,3 @@
-
-
 /*Write a program for an inventory management system using both procedural and
 object-oriented approaches. The system should handle products with attributes:
 
@@ -13,6 +11,7 @@ o Calculate the total value of all products.
 Objective: Compare the procedural and object-oriented implementations by
 evaluating code reusability and complexity.
 */
+
 
 #include<iostream>
 using namespace std;
