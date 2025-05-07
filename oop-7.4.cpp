@@ -35,7 +35,7 @@ void generateReport(const string& filename) {
     ifstream file(filename);
 
     if (!file) {
-        cerr << "Error: File could not be opened." << endl;
+        cout << "Error: File could not be opened." << endl;
         return;
     }
 
