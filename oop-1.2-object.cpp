@@ -1,6 +1,4 @@
 
-
-
 /*Write a program for an inventory management system using both procedural and
 object-oriented approaches. The system should handle products with attributes:
 ID, name, quantity, and price.
