@@ -1,5 +1,3 @@
-
-
 /*
 A bank wants to create a simple system to manage customer bank accounts. The system should
 allow customers to perform basic banking operations such as depositing money, withdrawing
